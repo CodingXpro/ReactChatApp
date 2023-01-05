@@ -63,6 +63,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 Host Link: (https://glittery-kulfi-94e0f2.netlify.app)
+Use the username:-krishnakumar
+Use the password:-12345
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
